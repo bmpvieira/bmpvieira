@@ -22,10 +22,10 @@
 * Exposure and interests
   * TypeScript, Rust
 
-## Communicating & Teaching
+## Communicating & Teaching (🇵🇹🇬🇧🇫🇷 speaker)
 * **2016-2017 | Awarded Mozilla Science Lab fellowship** (one of four, out of 483 submissions) to [travel around the world](https://github.com/bmpvieira/fellows-class-2016/blob/master/bruno/resume.md) and champion Open Science through talks, workshops, and hackathons.
 * **2016-2018 | Mentored [3 Google Summer of Code students](https://summerofcode.withgoogle.com)** for the [Open Bioinformatics Foundation](https://www.open-bio.org) to build genomic [data analysis workflows](https://summerofcode.withgoogle.com/archive/2016/projects/5735739308376064/).
-* **2014-2018 | Master's in Bioinformatics and R course** teaching assistant at Queen Mary, U. of London during PhD.
+* **2014-2018 | Master's in Bioinformatics and R course** instructor at Queen Mary, U. of London during PhD.
 * **2012 | Instructor and Content Developer for Python 101 Course** at U. of Lisbon
 * **Speaker at multiple international** conferences, meetups and hackathons for Bioinformatics, Open Science, Reproducibility, and Node.js.
 
