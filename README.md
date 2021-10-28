@@ -1,7 +1,7 @@
 # Bruno Vieira
 > Software - Bioinformatics - Genomics
 
-:globe_with_meridians: [***REMOVED***](https://***REMOVED***) :envelope: [***REMOVED***](mailto:***REMOVED***) :octocat: [github.com/bmpvieira](https://github.com/bmpvieira) [:m:edium.com/@bmpvieira](https://medium.com/@bmpvieira)
+:globe_with_meridians: [Website](https://bmpvieira.github.io) :envelope: [Email](mailto:clinker-place03@icloud.com) :octocat: [github.com/bmpvieira](https://github.com/bmpvieira) [:m:edium.com/@bmpvieira](https://medium.com/@bmpvieira)
 
 ## Technical Skills
 * Data Science / Machine Learning
