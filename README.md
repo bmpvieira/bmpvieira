@@ -12,7 +12,7 @@
   * Advanced **Shell** Scripting (BASH, Fish, ZSH,...)
   * Analysis **Pipelines** Workflows (Nextflow, SnakeMake,...)
 * Full Stack
-  * **Node.js**; Ember, Angular, Express; MongoDB / **SQL**; HTML5 / CSS3
+  * **Node.js**, TypeScript, Ember, Angular, Express, MongoDB, **SQL**, HTML5, CSS3
 * DevOps
   * **Docker**, Singularity
   * Google **Cloud**, Azure, AWS
@@ -20,7 +20,7 @@
   * Git, GitHub, GitLab
   * Unit Testing, Continuous Integration (TravisCI)
 * Exposure and interests
-  * TypeScript, Rust
+  * Rust, Swift
 
 ## Communicating & Teaching (🇵🇹🇬🇧🇫🇷 speaker)
 * **2016-2017 | Awarded Mozilla Science Lab fellowship** (one of four, out of 483 submissions) to [travel around the world](https://github.com/bmpvieira/fellows-class-2016/blob/master/bruno/resume.md) and champion Open Science through talks, workshops, and hackathons.
