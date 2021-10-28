@@ -30,7 +30,8 @@
 * **Speaker at multiple international** conferences, meetups and hackathons for Bioinformatics, Open Science, Reproducibility, and Node.js.
 
 ## Education & Work Experience
-* **Since 2019 | Co-Chief Technology Officer @ [Resurgo.com](https://resurgo.com)**
+* **Since Oct 2021 | Senior Backend Developer @ [Lifebit.ai](https://lifebit.ai)**
+* **2019-2021 | Co-Chief Technology Officer @ [Resurgo.com](https://resurgo.com)**
 Applying Machine Learning and [novel visualisation techniques](https://youtu.be/t5UiF2do8rs) to find target candidates for RNA therapeutics in diseases such as cancer and now COVID-19.
 * **2018 | Senior Bioinformatics Developer @ [Repositive.io](https://repositive.io)**
 * **2014-2018 | PhD in Bioinformatics @ [Queen Mary, U. of London](https://wurmlab.github.io/tools/)**
