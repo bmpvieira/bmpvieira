@@ -15,10 +15,10 @@
   * **Node.js**, TypeScript, Ember, Angular, Express, MongoDB, **SQL**, HTML5, CSS3
 * DevOps
   * **Docker**, Singularity
-  * Google **Cloud**, Azure, AWS
+  * AWS, Azure, Google Cloud 
   * **NixOS**, Arch Linux, Ubuntu
   * Git, GitHub, GitLab
-  * Unit Testing, Continuous Integration (TravisCI)
+  * Unit Testing, Continuous Integration
 * Exposure and interests
   * Rust, Swift
 
