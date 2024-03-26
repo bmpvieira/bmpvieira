@@ -31,25 +31,29 @@ I have a masters in human biology and environment and an undergrad degree in cel
 Experience
 ==========
 
+Senior Backend Developer
+---
+### Oct 2021 - Present (2.5 yrs) | [Lifebit.ai](https://lifebit.ai)
+
 CTO
 ---
 
-### 2019-Present | [Resurgo Genetics](https://resurgo.com)
+### Jan 2019 - Sep 2021 (2 yrs 9 mos) | [Resurgo Genetics](https://resurgo.com)
 Applying Machine Learning and [novel visualization techniques](http://bit.ly/resurgo1min) to find target candidates for therapeutics in diseases such as cancer and now COVID&#x2011;19.  
 
 Developer
 ---------
 
-### 2018 | [Code for Science and Society](https://codeforscience.org)
+### Dez 2018 | [Code for Science and Society](https://codeforscience.org)
 Worked on [short term project](http://github.com/stencila/dockter) to integrate [Nix](http://nixos.org) into a Docker image builder for researchers.
 
-### 2014-Present | [Bionode.io](http://bionode.io)
+### Jan 2014 - Jan 2020 (6 yrs) | [Bionode.io](http://bionode.io)
 Founded and lead this Open Source Community Project to build scalable and streamable Bioinformatics by leveraging the Node.js ecosystem. Mentored 3 Google Summer of Code students. Organized several workshops and hackathons. Contributed to many modules, but mostly Bionode-NCBI. Prototyped [data analysis workflow engines]().
 
 ### 2014 | [Dat project](https://dat.foundation) (distributed data technology)
 I helped the Dat team in the context of genomic data.
 
-### 2012-2013 | [XIV Congress of the European Society for Evolutionary Biology (ESEB 2013)](http://eseb2013.com) ###
+### 2012 - 2013 | [XIV Congress of the European Society for Evolutionary Biology (ESEB 2013)](http://eseb2013.com) ###
 I was the sole web developer and built everything from the ground up. I am still the current maintainer.
 
 keywords: [Node.js](http://nodejs.org/), [Express.js](http://expressjs.com/), [Bootstrap](http://twitter.github.com/bootstrap/), [MongoDB](http://www.mongodb.org/), [Redis](http://redis.io/), [CoffeeScript](http://coffeescript.org/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/)
