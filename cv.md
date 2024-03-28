@@ -47,7 +47,7 @@ Developer
 ### Dec 2018 | [Code for Science and Society](https://codeforscience.org)
 Worked on [short term project](http://github.com/stencila/dockter) to integrate [Nix](http://nixos.org) into a Docker image builder for researchers.
 
-### Jan 2014 - Jan 2020 (6 yrs) | [Bionode.io](http://bionode.io)
+### Jan 2014 - Jan 2018 (4 yrs) | [Bionode.io](http://bionode.io)
 Founded and lead this Open Source Community Project to build scalable and streamable Bioinformatics by leveraging the Node.js ecosystem. Mentored 3 Google Summer of Code students. Organized several workshops and hackathons. Contributed to many modules, but mostly Bionode-NCBI. Prototyped [data analysis workflow engines]().
 
 ### 2014 | [Dat project](https://dat.foundation) (distributed data technology)
