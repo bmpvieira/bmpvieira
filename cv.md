@@ -22,7 +22,7 @@ I am involved in open source and open research and participate/organise workshop
 Previously, I worked for:
 
 * [Geekli.st](http://geekli.st) on the integration with the LinkedIn API
-* [ESEB2013.com](http://ESEB2013.com) as the sole web developer and built it using Node.js, Express.js, MongoDB, Redis, Jade, Stylus, Bootstrap, etc, to manage the data of 1500 participants. 
+* [ESEB2013.com](https://eseb.org/wp-content/uploads/2018/08/2013_Program.pdf) as the sole web developer and built it using Node.js, Express.js, MongoDB, Redis, Jade, Stylus, Bootstrap, etc, to manage the data of 1500 participants. 
 * [CoBiG²](http://cobig2.com) at the Faculty of Sciences of the University of Lisbon as a Bioinformatician, where I analysed Next-Generation Sequencing data, using mostly Python and R. I also had SysAdmin tasks.
 
 I have a masters in human biology and environment and an undergrad degree in cell biology and biotechnology. --->
