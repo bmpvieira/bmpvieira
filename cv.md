@@ -402,7 +402,7 @@ Design
 
 ### Logos ###
 * 2014 - Logo for the [**bionode**](http://bionode.io) Node.js module made with [Adobe Illustrator](http://adobe.com/products/illustrator).
-* 2010 - Logo for the [**Computational Biology & Population Genomics Group (CoBiG²)**]([http://cobig2.fc.ul.pt](https://bmpvieira.github.io/sanger14/img/cobig2.png)) made with [Blender](http://blender.org) and [Gimp](http://gimp.org).
+* 2010 - Logo for the [**Computational Biology & Population Genomics Group (CoBiG²)**](https://bmpvieira.github.io/sanger14/img/cobig2.png) made with [Blender](http://blender.org) and [Gimp](http://gimp.org).
 
 Music
 -----
