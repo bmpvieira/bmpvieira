@@ -44,7 +44,7 @@ Applying Machine Learning and [novel visualization techniques](http://bit.ly/res
 Developer
 ---------
 
-### Dez 2018 | [Code for Science and Society](https://codeforscience.org)
+### Dec 2018 | [Code for Science and Society](https://codeforscience.org)
 Worked on [short term project](http://github.com/stencila/dockter) to integrate [Nix](http://nixos.org) into a Docker image builder for researchers.
 
 ### Jan 2014 - Jan 2020 (6 yrs) | [Bionode.io](http://bionode.io)
