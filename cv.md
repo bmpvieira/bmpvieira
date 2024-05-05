@@ -261,18 +261,6 @@ Guide.**](http://www.euro2010lisbon.org) Presented at the 24th European Conferen
 * 2013-Present - **Demonstrator** for master of bioinformatics and R practicals at Queen Mary University of London
 * 2010 (Nov 25) - Class lecture about **Next-generation sequencing** for the MSc in Bioinformatics and Computational Biology
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Workshops organised
 * 2015 - [Bionode - Modular and universal bioinformatics](https://github.com/mozilla/mozfest-program/issues/341) at [Mozfest](http://2014.mozillafestival.org), London, England
 * 2014 - [Dat Workshop: Dive into dat for dataset push, pull and clone](http://ryanpitts.com/projects/mozfest-2014/#_session-29) at [Mozfest](http://2014.mozillafestival.org), London, England
